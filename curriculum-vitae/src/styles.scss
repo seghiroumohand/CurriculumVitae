@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh; // Full viewport height
+  width: 100vw; // Full viewport width
+  overflow: hidden; // Prevent scrolling
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1a0033; // Deep, rich purple
+  font-family: 'Courier New', monospace; // Retro monospace font
+  color: #ff00ff; // Neon magenta text
+  text-shadow: 0 0 5px #ff00ff, 0 0 10px #ff00ff, 0 0 20px #ff00ff; // Neon glow effect
+  position: relative;
+}
